@@ -1,0 +1,9 @@
+cmd - run as admin
+
+net user IranNara password /ADD
+
+cd c:\
+
+mkdir IranNaraTest 
+
+attrib /S +R

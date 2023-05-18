@@ -1,0 +1,1 @@
+please replace .txt extension by .bat for batch files

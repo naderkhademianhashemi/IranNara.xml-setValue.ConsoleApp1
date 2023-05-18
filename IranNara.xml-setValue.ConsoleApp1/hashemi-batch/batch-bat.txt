@@ -1,0 +1,7 @@
+@ECHO ON
+
+SET Folder=C:\foldername
+SET Security=%userdomain%\%username%
+
+ICACLS "%Folder%\*" /deny "%Security%":(OI)(WA)
+EXIT

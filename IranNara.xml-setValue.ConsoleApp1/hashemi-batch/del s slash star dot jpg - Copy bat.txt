@@ -1,0 +1,6 @@
+@ECHO ON
+
+del /s *.jpg 
+del /s *.png
+del /s *.gif
+del /s *.js
